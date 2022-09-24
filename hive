@@ -26,18 +26,6 @@ h. Find a month for each year in which maximum number of quantities were sold
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # create new database -
 create database hive_assignment;
 
